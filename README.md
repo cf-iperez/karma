@@ -61,15 +61,3 @@ karma target 'johndoe@%.com' -o test5
 
 Usage this program for attacking targets without prior consent is illegal. It's the end user's responsibility to obey allapplicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-
-### Thanks
-
-This program is inspired by the projects:
-+ [pwndb_api](https://github.com/M3l0nPan/pwndb_api) by: M3l0nPan
-+ [pwndb](https://github.com/davidtavarez/pwndb)     by: davidtavarez
-
-
-
-**decoxviii**
-
-**[MIT](https://github.com/decoxviii/karma/blob/master/LICENSE)**
