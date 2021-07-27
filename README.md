@@ -19,18 +19,11 @@ Install dependencies (Debian/Ubuntu):
 sudo apt install tor python3 python3-pip
 ```
 
-Install with `pip3`:
-```
-sudo -H pip3 install git+https://github.com/decoxviii/karma.git --upgrade
-karma --help
-```
-
-
 ## Building from Source
 
-Clone this repository, and:
+Clone this repository (Original repo is not working), and:
 ```
-git clone https://github.com/decoxviii/karma.git ; cd karma
+git clone https://github.com/cf-iperez/karma.git ; cd karma
 sudo -H pip3 install -r requirements.txt
 python3 setup.py build
 sudo python3 setup.py install
